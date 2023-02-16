@@ -1,0 +1,8 @@
+body, html, #root {
+  height: 100%;
+  margin:0px;
+  /* background-image: url("/public/sources/back-blue.jpg"); */
+  background-color: gainsboro;
+  background-size: cover;
+}
+

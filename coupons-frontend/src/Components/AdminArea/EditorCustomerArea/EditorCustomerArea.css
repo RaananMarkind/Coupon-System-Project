@@ -1,0 +1,9 @@
+.btn{
+    text-align: center;
+    float: none !important;
+    display: inline; 
+}
+
+.btn-space{
+    margin-right: 10px;
+}
